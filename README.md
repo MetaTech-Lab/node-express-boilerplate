@@ -2,4 +2,4 @@
 
 ## Usage
 
-``` npm start```
+Run `npm start` to start the express server.
